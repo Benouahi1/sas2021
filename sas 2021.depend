@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637682042 source:c:\users\youcode\desktop\ayoub benouahi\sas 2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
